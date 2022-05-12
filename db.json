@@ -1,0 +1,108 @@
+{
+    "students" : [
+        {
+            "Name" : "Nazmul",
+            "Age" : 25,
+            "Skill" : "MERN"
+        },
+        {
+            "Name" : "Asrasful Vai",
+            "Age" : 35,
+            "Skill" : "IOS"
+        },
+        {
+            "Name" : "AB. Rajjak",
+            "Age" : 25,
+            "Skill" : "MERN"
+        },
+        {
+            "Name" : "Ahsa",
+            "Age" : 28,
+            "Skill" : "AI"
+        },
+        {
+            "Name" : "Akbor",
+            "Age" : 35,
+            "Skill" : "Animation"
+        },
+        {
+            "Name" : "Sojib",
+            "Age" : 30,
+            "Skill" : "MERN"
+        },
+        {
+            "Name" : "Sajjad",
+            "Age" : 55,
+            "Skill" : "AI"
+        },
+        {
+            "Name" : "Asik",
+            "Age" : 40,
+            "Skill" : "MERN"
+        },
+        {
+            "Name" : "Nobita",
+            "Age" : 25,
+            "Skill" : "Animation"
+        },
+        {
+            "Name" : "Sujuka",
+            "Age" : 23,
+            "Skill" : "MERN"
+        }
+    ],
+
+    "teacher" : [
+        {
+            "Name" : "Asraful",
+            "Age" : 35,
+            "Skill" : "MERN"
+        },
+        {
+            "Name" : "Nazmul",
+            "Age" : 25,
+            "Skill" : "IOS"
+        },
+        {
+            "Name" : "AB. Rajjak",
+            "Age" : 25,
+            "Skill" : "MERN"
+        },
+        {
+            "Name" : "Ahsa",
+            "Age" : 28,
+            "Skill" : "AI"
+        },
+        {
+            "Name" : "Akbor",
+            "Age" : 35,
+            "Skill" : "Animation"
+        },
+        {
+            "Name" : "Sojib",
+            "Age" : 30,
+            "Skill" : "MERN"
+        },
+        {
+            "Name" : "Sajjad",
+            "Age" : 55,
+            "Skill" : "AI"
+        },
+        {
+            "Name" : "Asik",
+            "Age" : 40,
+            "Skill" : "MERN"
+        },
+        {
+            "Name" : "Nobita",
+            "Age" : 25,
+            "Skill" : "Animation"
+        },
+        {
+            "Name" : "Sujuka",
+            "Age" : 23,
+            "Skill" : "MERN"
+        }
+    ]
+}
+
